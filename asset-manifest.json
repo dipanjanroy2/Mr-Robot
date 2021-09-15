@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Mr-Robot/static/css/main.6e75b714.chunk.css",
+    "main.js": "/Mr-Robot/static/js/main.a3c25e97.chunk.js",
+    "main.js.map": "/Mr-Robot/static/js/main.a3c25e97.chunk.js.map",
+    "runtime-main.js": "/Mr-Robot/static/js/runtime-main.1a6a60dc.js",
+    "runtime-main.js.map": "/Mr-Robot/static/js/runtime-main.1a6a60dc.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Mr-Robot/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.fcd927d6.chunk.js": "/Mr-Robot/static/js/2.fcd927d6.chunk.js",
+    "static/js/2.fcd927d6.chunk.js.map": "/Mr-Robot/static/js/2.fcd927d6.chunk.js.map",
+    "static/js/3.5400ab60.chunk.js": "/Mr-Robot/static/js/3.5400ab60.chunk.js",
+    "static/js/3.5400ab60.chunk.js.map": "/Mr-Robot/static/js/3.5400ab60.chunk.js.map",
+    "index.html": "/Mr-Robot/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Mr-Robot/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.6e75b714.chunk.css.map": "/Mr-Robot/static/css/main.6e75b714.chunk.css.map",
+    "static/js/2.fcd927d6.chunk.js.LICENSE.txt": "/Mr-Robot/static/js/2.fcd927d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Mr-Robot/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a6a60dc.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.fcd927d6.chunk.js",
+    "static/css/main.6e75b714.chunk.css",
+    "static/js/main.a3c25e97.chunk.js"
+  ]
+}
